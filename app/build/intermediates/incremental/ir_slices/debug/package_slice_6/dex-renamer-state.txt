@@ -1,0 +1,4 @@
+#Tue Jul 02 18:50:04 SGT 2019
+base.0=C\:\\Users\\Zi Wan\\Downloads\\android-advanced-starter-apps-master\\SongDetail_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
